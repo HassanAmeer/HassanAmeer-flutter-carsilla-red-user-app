@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270329644385",
+    "project_id": "carsilla-6bfce",
+    "storage_bucket": "carsilla-6bfce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270329644385:android:4e4a6987ae12f496df3120",
+        "android_client_info": {
+          "package_name": "com.example.carsilla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSwBR7qnrdH1pBvu5Z5ElA37YAdO_oDXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
